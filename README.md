@@ -19,15 +19,13 @@ A modern cross-platform **To-Do List** application built with **Flutter**. The a
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="img width="220" <alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-28 at 13 14 46" src="https://github.com/user-attachments/assets/05b1c941-9116-4e16-aee1-791f9c4a12aa" />
-" width="220">
-  <img src="img width="220" <alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-28 at 13 14 56" src="https://github.com/user-attachments/assets/8ac743ab-f9f4-4e74-9591-ae80a200b68c" />
+  <img src="https://github.com/user-attachments/assets/05b1c941-9116-4e16-aee1-791f9c4a12aa" width="220" />
+  <img src="https://github.com/user-attachments/assets/8ac743ab-f9f4-4e74-9591-ae80a200b68c" width="220" "/>
 </p>
 
 <p align="center">
-  <img src="<img width="220" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-28 at 13 15 02" src="https://github.com/user-attachments/assets/6306c02d-c128-4441-90bb-46fdf913d54d" />
-  <img src="<img width="220" alt="Simulator Screenshot - iPhone 17 Pro - 2026-07-28 at 13 15 31" src="https://github.com/user-attachments/assets/d25fc691-bf62-4cc9-a031-551e8039643a" />
-/>
+  <img src="https://github.com/user-attachments/assets/6306c02d-c128-4441-90bb-46fdf913d54d" width="220" />
+  <img src="https://github.com/user-attachments/assets/d25fc691-bf62-4cc9-a031-551e8039643a" width="220" />
 </p>
 
 ---
